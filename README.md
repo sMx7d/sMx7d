@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey 👋
 
 <!--
 **sMx7d/sMx7d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![sMx7d's GitHub stats](https://github-readme-stats.vercel.app/api?username=sMx7d)](https://github.com/sMx7d/github-readme-stats)
